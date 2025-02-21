@@ -2861,7 +2861,7 @@ textarea.form-control-lg {
 
 .btn-primary {
   --bs-btn-color: #fff; /* Texto blanco */
-  --bs-btn-bg: #E74C3C; /* Fondo rojo más oscuro (antes hover) */
+  --bs-btn-bg: #f82008; /* Fondo rojo más oscuro (antes hover) */
   --bs-btn-border-color: #E74C3C; /* Borde rojo más oscuro (antes hover) */
   --bs-btn-hover-color: #fff; /* Texto blanco al hacer hover */
   --bs-btn-hover-bg: #FF6F61; /* Fondo rojo coral (antes normal) */
